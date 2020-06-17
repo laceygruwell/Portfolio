@@ -1,5 +1,25 @@
 # README
 
+> This is a Ruby on Rails application designed as a Portfolio for Developers.
+
+### Features
+
+- Real time chst engine for comments
+- Blog
+- Portfolio
+- Drag and drop interface
+
+### Code Example
+
+```ruby
+def my_great_method
+  puts "Here it is"
+end
+```
+```javascript
+alert('Hi there!');
+```
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
