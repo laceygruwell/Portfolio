@@ -1,6 +1,6 @@
 # README
 
-> This is a Ruby on Rails application designed as a Portfolio for Developers.
+> This is a Ruby on Rails Portfolio application designed for Developers to better display their work, experience, and skills.
 
 ### Features
 
